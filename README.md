@@ -1,4 +1,4 @@
-### `git clone `
+### `git clone https://github.com/SuhasD/earthquake-garden.git`
 Clones the repository locally.<br />
 
 ### `npm install`
